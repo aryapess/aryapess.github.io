@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aria Pessianzadeh"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Information Science, researcher in NLP and computational social scinece"
+  bio              : "PhD student in Information Science, researcher in NLP and computational social science"
   location         : "Philadelphia, PA"
   employer         : "Drexel University"
   uri              : # URL
