@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in Information Science, researcher in NLP and computational social scinece"
   location         : "Philadelphia, PA"
-  employer         : "Drexek University"
+  employer         : "Drexel University"
   uri              : # URL
   email            : "ap3943@drexel.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9XOCsOUAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
