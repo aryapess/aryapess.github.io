@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_2024-08-29_12-31-53.jpg"
+  avatar           : "profile.png"
   name             : "Aria Pessianzadeh"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Information Science, NLP and computational social science researcher"
