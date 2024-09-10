@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Science, Drexel University, 2023-present
+* M.S. in Informatics, Indiana University, 2023
+* B.S. in Electrical Engineering, Sharif University of Technology, 2019
 
 Work experience
 ======
