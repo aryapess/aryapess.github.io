@@ -10,7 +10,6 @@ redirect_from:
 I am a PhD student and Research Assistant of Information Science at Drexel University in Philadelphia, working at the intersection of Natural Language Processing and Computational Social Science. I apply a wide range of NLP tools such as LLMs to studying online social phenomena such as stance detection on social platforms, political polarization and online perspectives.
 In my spare time, I workout, listen to podcasts, watch shows, learn new languages and follow politics!
 
-"images/aria_pic.png"
 
 
 A data-driven personal website
