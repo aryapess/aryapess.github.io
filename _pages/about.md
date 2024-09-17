@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-PhD and Research Assistant of Information Science at Drexel University, working at the intersection of Natural Language Processing and Computational Social Science. I apply a wide range of NLP tools such as LLMs to studying online social phenomena such as stance detection on social platforms, political polarization and online perspectives.
+I am a PhD student and Research Assistant of Information Science at Drexel University in Philadelphia, working at the intersection of Natural Language Processing and Computational Social Science. I apply a wide range of NLP tools such as LLMs to studying online social phenomena such as stance detection on social platforms, political polarization and online perspectives.
 In my spare time, I workout, listen to podcasts, watch shows, learn new languages and follow politics!
 
 [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
