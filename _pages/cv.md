@@ -7,10 +7,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2022-Aug 2022: Data Analyst Intern
+  * NUCO Logistics, Houston, TX
+  * Duties includes: Analyzing supply chain data to assist decision-making by providing comprehensive, insightful reports and visual dashboards
 
 * Fall 2015: Research Assistant
   * Github University
