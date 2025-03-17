@@ -11,10 +11,9 @@ Work experience
   * NUCO Logistics, Houston, TX
   * Duties includes: Analyzing supply chain data to assist decision-making by providing comprehensive, insightful reports and visual dashboards
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2019-Sep 2020: Data Scientist
+  * Iranian forwarding logistic company, Tehran, Iran
+  * Duties included: Responsible for analyzing and interpreting supply chain data to optimize operations, improve efficiency, and support decision-making using programming and analytical tools like Excel, Tableau.
 
 * Summer 2015: Research Assistant
   * Github University
