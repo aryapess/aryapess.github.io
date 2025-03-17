@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://github.com/aryapess/aryapess.github.io/blob/master/_pages/publications.md
 
   - title: "Talks"
     url: /talks/    
