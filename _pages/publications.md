@@ -9,6 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q=aria+pessianzadeh&btnG=}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Pessianzadeh, Aria, Rezapour, Rezvaneh (Shadi). "Exploring Stance on Affirmative Action Through Reddit Narratives." (WebSci 2025)</div>
+{% endif %}
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
