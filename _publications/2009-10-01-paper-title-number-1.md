@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Voices of Reddit: Exploring the Diverse Perspectives and Stances on Affirmative Action"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
