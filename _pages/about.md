@@ -9,7 +9,11 @@ redirect_from:
 
 ![My Photo](images/Github_Profile.jpg)
 
-I am a PhD student and Research Assistant of Information Science at Drexel University in Philadelphia, working at the intersection of Natural Language Processing and Computational Social Science. I apply a wide range of NLP tools such as LLMs to studying online social phenomena such as stance detection on social platforms, political polarization and online perspectives.
+Welcome — I’m Aria Pessianzadeh
+======
+I’m a PhD student in Information Science at Drexel University, working at the intersection of Natural Language Processing, Computational Social Science, and AI for Society.
+My work blends large-scale data analysis, generative AI, and human-centered research to better understand how people experience technology—and how we can design systems that empower rather than divide us.
+Whether I’m studying trust in large language models, analyzing polarization in online communities, or prototyping tools that encourage healthier digital conversations, I’m driven by a single goal: using AI to help people understand each other, not drift further apart.
 In my spare time, I workout, listen to podcasts, watch shows, learn new languages and follow politics!
 
 
@@ -20,25 +24,52 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Research: Trust, Technology, and Social Systems
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research explores the linguistic, psychological, and social signals that shape how people interact with generative AI.
+I develop computational models to study:
 
-Site-wide configuration
+Stance, sentiment, and emotion in discussions about GenAI
+
+Trust and distrust mechanisms, drawing on TAM, DOI, PMT, SET, and cognitive–affective trust theories
+
+Online polarization, controversial issues, and cross-community attitudes
+
+Cultural tightness–looseness and AI adoption
+
+Second-order influence of AI agents in group deliberation
+
+Much of my work relies on large, real-world datasets (primarily Reddit), multi-label annotation pipelines, and quantitative frameworks for mapping trust pathways and identifying emergent trust profiles across populations.
+My goal is to advance transparent, responsible, and human-centered AI systems
+
+Building Tools for Better Conversations
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Alongside my research, I build practical tools that apply NLP and generative AI to democratic and societal challenges.
+My projects include:
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+An anti-polarization chatbot that helps people engage with opposing viewpoints more constructively.
 
-**Markdown generator**
+Argument-surfacing and civility-scoring systems that support healthier political dialogue.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+AI-assisted debate environments with multiple LLM agents facilitating group reasoning.
+
+Interactive platforms for dating, learning, and community-building, powered by contextual LLM moderation.
+
+I believe AI should act as a bridge—not a wedge—between people.
+My work seeks to move us toward technologies that reduce division, foster empathy, and strengthen civic life.
+
+
+**A Humanistic Vision for AI and Society**
+
+At the center of everything I do is a commitment to empowering people.
+I’m deeply inspired by the immigrant experience, the idea of American possibility, and the belief that technology should enhance our humanity rather than replace it.
+My long-term vision combines research, entrepreneurship, and public engagement to build systems that are:
+
+Fair, transparent, and trustworthy
+
+Politically and culturally sensitive
+
+Designed to support conversation, connection, and community
+
+I’m building a career at the intersection of research and impact—where rigorous science meets real societal challenges.
 
