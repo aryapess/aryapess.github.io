@@ -49,23 +49,6 @@ Publications
 <br> 
   <div class="wordwrap">Razi, Afsaneh, Layla Bouzoubaa, Aria Pessianzadeh, John S. Seberger, and Rezvaneh Rezapour. "Not a Swiss Army Knife: Academics' Perceptions of Trade-Offs Around Generative Artificial Intelligence Use." arXiv preprint arXiv:2405.00995 (2024).</div>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>Drexel University:
-    Teaching Assistant: Intro to Data Science
-  </ul>
-    <ul>Indiana University:
-    Teaching Assistant: Teaching Assistant: PhD Seminar
-  </ul>
-    <ul>Indiana University:
-    Teaching Assistant: Creativity, Technology and Entrepreneurship
-  </ul>
 
   
 Service and leadership
