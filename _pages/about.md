@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![My Photo](/images/Github_Profile.jpg)
+![My Photo](/assets/images/Github_Profile.jpg)
 
 Welcome — I’m Aria Pessianzadeh
 ======
