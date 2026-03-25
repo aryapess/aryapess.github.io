@@ -22,10 +22,6 @@ Work experience
   * Iranian forwarding logistic company, Tehran, Iran
   * Duties included: Responsible for analyzing and interpreting supply chain data to optimize operations, improve efficiency, and support decision-making using programming and analytical tools like Excel, Tableau.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
