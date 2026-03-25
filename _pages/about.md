@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Github_Profile.jpg" alt="My Photo" width="200">
+<img src="{{ site.baseurl }}/images/Github_Profile.jpg" alt="My Photo" width="200">
 
 Welcome — I’m Aria Pessianzadeh
 ======
